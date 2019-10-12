@@ -1,0 +1,6 @@
+
+spring:
+  security:
+    user:
+      name: root #配置spring security用户名
+      password: 123 #配置spring security用户密码
